@@ -1,0 +1,2 @@
+# Traffic-Collision-Analysis-and-Flow-Simulation-in-Toronto-Using-Cellular-Automata-Models
+This project analyzes Toronto traffic collisions using historical data and Cellular Automata (CA) models. It examines factors like human behavior, urbanization, weather, and visibility to identify trends and predict accident hotspots. Machine learning aids prediction, while CA simulates flow, supporting safer urban planning and policymaking.
